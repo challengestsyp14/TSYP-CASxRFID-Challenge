@@ -1,0 +1,5 @@
+[
+  {"box_id": "B001", "status": "severe", "last_event_time": "2026-11-18T10:02:40Z", "current_holder": {"badge_id": "53A0B3A7", "name": "Client C", "role": "client"}, "profile": {"fragile": true, "temp_mode": "room", "temp_min_c": 5.0, "temp_max_c": 30.0}},
+  {"box_id": "B002", "status": "warning", "last_event_time": "2026-11-18T09:50:00Z", "current_holder": {"badge_id": "4BBEF804", "name": "Driver B", "role": "driver"}, "profile": {"fragile": false, "temp_mode": "cold", "temp_min_c": 0.0, "temp_max_c": 10.0}},
+  {"box_id": "B003", "status": "ok", "last_event_time": null, "current_holder": null, "profile": null}
+]
